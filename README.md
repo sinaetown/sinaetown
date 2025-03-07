@@ -11,8 +11,8 @@
         <li><strong>State University of New York, Korea</strong> (한국뉴욕주립대학교) - CS 전공 (2020.02 ~ 2025.05)</li>
         <li><a href="https://www.codersus.org/" style="color: #0073e6; text-decoration: none;"><strong>Co;Ders</strong></a> - 코딩 교육봉사 비영리민간단체 로보틱스 부서장 (2022.02 ~ 2023.06)</li>
         <li>인천교육청 주관 <strong>STEAM 통합 교육 멘토</strong> (2021.10 ~ 2022.01)</li>
-        <li>Python Teaching Assistant (교내) (2021.02 ~ 2021.06)</li>
         <li> Calculus Teaching Assistant (교내) (2021.08 ~ 2021.12)</li>
+        <li>Python Teaching Assistant (교내) (2021.02 ~ 2021.06)</li>
     </ul>
 </div>
   <!-- Tech Stacks -->
