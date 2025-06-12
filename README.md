@@ -59,6 +59,4 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinaetown&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" alt="Top Langs" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sinaetown" alt="Solved.ac Profile" />
-</div>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsinaetown&count_bg=%23C8BFFB&title_bg=%23FF91B5&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div
