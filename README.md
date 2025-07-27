@@ -32,10 +32,14 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-      <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20CloudFront-96588A?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white">
-<img src="https://img.shields.io/badge/amazonroute53-8C4FFF.svg?style=for-the-badge&logo=amazonroute53&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20S3-CC6699?style=for-the-badge&logo=amazons3&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20CloudFront-CC6699?style=for-the-badge&logo=amazons3&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20EC2-663399?style=for-the-badge&logo=amazons3&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20ALB-663399?style=for-the-badge&logo=amazons3&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20Route%2053-663399?style=for-the-badge&logo=amazons3&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20RDS-4479A1?style=for-the-badge&logo=amazons3&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20Elasticache-4479A1?style=for-the-badge&logo=amazons3&logoColor=white">
     </div>
   </div>
 
